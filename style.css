@@ -15,7 +15,7 @@
     font: 18px/23px "Cantarell", sans-serif;
     color: #ffffff;
     /* Location of the image */
-    background-image: url(bg_image.JPG);
+    background-image: url(images/bg_image.JPG);
     
     /* Image is centered vertically and horizontally at all times */
     background-position: center center;
@@ -144,7 +144,7 @@
   /* For mobile devices */
   @media only screen and (max-width: 767px) {
     body {
-      background-image: url(bg_image.JPG);
+      background-image: url(images/bg_image.JPG);
     }
     }
 
