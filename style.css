@@ -123,10 +123,10 @@
 */
 
 
-  /* Media Queries 
+  /* Media Queries */
   @media only screen and (max-width: 340px) {
     
-    .container {
+    .header {
       position: relative;
       display: block;
       float: left;
@@ -160,11 +160,11 @@
       line-height: 20px;
     }
   
-    html, body, .container {
+    html, body, .header {
       height: auto;
     }
   }
-  */
+  
 
   
   body {
