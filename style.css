@@ -133,6 +133,20 @@
       vertical-align: baseline;
       margin: 0 auto;
       padding: 80px 0 0 0;
+
+      height: 100vh;
+      width: 100vw;
+      display: table;
+      padding-top: 80px;
+      background-image: url(images/bg_image.JPG);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-color:#464646;
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
     }
     
     body h1 {
